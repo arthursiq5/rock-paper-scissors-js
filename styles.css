@@ -1,0 +1,18 @@
+body {
+	background-color: #D1DADE;
+}
+
+.card {
+	background-color: #fff;
+	margin: 2em;
+}
+
+.buttons {
+	margin: auto;
+	width: 50%;
+	text-align: center;
+}
+
+.buttons > a {
+	margin-top: 5px;
+}
